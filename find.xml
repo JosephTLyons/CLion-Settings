@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '~/Programming/C++/GUI Apps/Track Notes 2/Source'" />
-    <option name="defaultScopeName" value="Directory '~/Programming/C++/GUI Apps/Track Notes 2/Source'" />
-    <option name="SEARCH_SCOPE" value="Directory '~/Programming/C++/GUI Apps/Track Notes 2/Source'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
