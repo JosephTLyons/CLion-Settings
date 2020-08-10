@@ -21,7 +21,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="180" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="Rust">
