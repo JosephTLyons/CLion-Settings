@@ -34,11 +34,8 @@
   </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
-  <action id="Replace" />
   <action id="Rerun" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="Run" />
   <action id="RunDashboard.UngroupConfigurations">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
