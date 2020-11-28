@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-05T10:51:39</property>
-    <property name="ide">CLion</property>
+    <property name="created">2020-09-05T10:58:08</property>
+    <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-09-05T10:59:05</property>
+    <property name="modified">2020-09-05T10:58:50</property>
     <property name="originalScheme">Atom One Dark</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
